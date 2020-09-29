@@ -1,7 +1,7 @@
 # AR-Furniture-Previewer
 Made with Vuforia and Unity C#
 
-<img src="https://lucasgigliozzi.com/wp-content/uploads/2019/11/furniturepreviewer-1-144x300.png" width="200" height="430" />
+<img src="https://github.com/lucasg321/AR-Furniture-Previewer/blob/master/Assets/arfurniture.gif" width="200" height="430" />
 
 ### Description:
 The AR Furniture Viewer is a mobile application compatible with Android and iOS (only tested on Android) that imposes models of furniture on top of a live environment video feed.
